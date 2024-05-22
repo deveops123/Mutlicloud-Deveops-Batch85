@@ -1,0 +1,7 @@
+      
+      this is scenario 1
+      .
+      .
+
+      .
+      #include<stdio.h>
